@@ -5,5 +5,5 @@ class SplashControler extends GetxController {
   void onReady() {
     super.onReady();
     Get.offAllNamed('/login');
-  }
+  } //função jogado no application binding
 }
